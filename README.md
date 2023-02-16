@@ -1,2 +1,1 @@
-# project
-twitter analysis of trending hashtages using Apache Spark
+# twitter analysis of trending hashtages using Apache Spark
